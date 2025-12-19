@@ -39,3 +39,19 @@ chmod +x sentinel.py
 
 echo "[+] Setup complete."
 ```
+## Hardware Verification
+ 
+Bring the adapter UP
+```bash
+sudo hciconfig hci0 up   #or hci1 
+```
+
+Check your bluetooth adapter is working
+```bash
+sudo hciconfig -a
+```
+
+Test Bluetooth
+```bash
+sudo hcitool scan
+```
