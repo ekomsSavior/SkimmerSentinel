@@ -55,6 +55,8 @@ Skimmer Sentinel transforms community safety efforts with:
 · WARDIRVING: Continuous mobile scanning while driving
 · STATION SWEEP: Organized community patrols
 
+---
+
 # Installation
 
 
@@ -140,6 +142,7 @@ sudo python3 sentinel.py
 # 7. DEPLOY: Countermeasures (read-only)
 # 8. EXIT
 ```
+---
 
 Your First Skimmer Scan
 
@@ -176,6 +179,8 @@ Building Your Patrol Route
 # 5. Press Enter at each location to scan
 # 6. Evidence automatically saved to database
 ```
+
+---
 
 ## Operational Modes
 
@@ -254,7 +259,9 @@ Features:
 · Community education
 · Security best practices
 
- Technical Specifications
+---
+
+## Technical Specifications
 
 Skimmer Detection Signatures
 
