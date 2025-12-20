@@ -2,12 +2,7 @@
 
 ### Professional-grade hardware detection system for identifying and mapping Bluetooth-based credit card skimmers at fuel stations.
 
-https://img.shields.io/badge/python-3.13+-blue.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Bluetooth-Required-blue
-https://img.shields.io/badge/Root-Access-red
-
- Overview
+## Overview
 
 Skimmer Sentinel is a comprehensive hardware-focused framework designed to detect, document, and map Bluetooth-based credit card skimmers commonly deployed at fuel pumps. Built for community safety initiatives and law enforcement collaboration, this tool provides professional-grade threat assessment and evidence collection capabilities.
 
