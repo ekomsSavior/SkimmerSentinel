@@ -295,7 +295,7 @@ Threat Scoring Algorithm
 # Max score: 10 (Critical Threat)
 ```
 
-⚖️ Legal Disclaimer
+# Legal Disclaimer
 
 IMPORTANT: Skimmer Sentinel is designed for DEFENSIVE and EVIDENCE COLLECTION purposes only.
 
