@@ -1,0 +1,5 @@
+[
+  {"name": "Shell Main St", "address": "123 Main St", "priority": 1},
+  {"name": "76 Highway", "address": "456 Highway 99", "priority": 2},
+  {"name": "Costco Gas", "address": "789 Retail Way", "priority": 3}
+]
